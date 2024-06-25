@@ -34,7 +34,6 @@ import {
   Hero,
   HomepageMeta,
   PortfolioItem,
-  SkillGroup,
   Social,
   TestimonialSection,
   TimelineItem,
